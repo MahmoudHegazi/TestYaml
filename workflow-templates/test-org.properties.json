@@ -1,0 +1,13 @@
+{
+    "name": "Test Organization Workflow",
+    "description": "Test Organization CI starter workflow.",
+    "iconName": "octicon code-review",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
